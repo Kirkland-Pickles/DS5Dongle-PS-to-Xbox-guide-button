@@ -8,7 +8,7 @@
 
 This project enables the Raspberry Pi Pico2W to function as a Bluetooth bridge for the DualSense controller, allowing wireless connectivity with enhanced haptics support.
 
-This fork adds the ability to open the windows Game Bar and Task Viewer (xbox mode)
+This fork adds the ability to open the windows Game Bar and Task Viewer (xbox mode) when you press (or hold) the PS button
 
 download from here - https://github.com/Kirkland-Pickles/DS5Dongle-PS-to-Xbox-guide-button/actions/runs/26476885410
 
