@@ -1,8 +1,8 @@
 **This fork adds the ability to open the windows Game Bar and Task Viewer (xbox mode)**
 
-download from here - [https://github.com/Kirkland-Pickles/DS5Dongle-PS-to-Xbox-guide-button/actions/runs/26476885410](https://github.com/Kirkland-Pickles/DS5Dongle-Game-Bar/actions/runs/26476885410)
+download the build from here - https://github.com/Kirkland-Pickles/DS5Dongle-Game-Bar/actions/runs/26476885410
 
-download Gamebar + Wake from s3 - https://github.com/Kirkland-Pickles/DS5Dongle-Game-Bar/actions/runs/26529267034
+download build with wake included - https://github.com/Kirkland-Pickles/DS5Dongle-Game-Bar/actions/runs/26529267034
 
 
 # Pico2W DualSense 5 Bridge
